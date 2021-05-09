@@ -1,0 +1,21 @@
+body{
+    font-size:15px;
+    line-height:1.8;
+    letter-spacing:1px;
+    word-break:break-all;
+    color:#555; 
+    font-family: 'M PLUS 1p', sans-serif;
+    /* background:lightsteelblue; */
+    background:#fce2c4;
+}
+
+a{
+    text-decoration:none;
+    color:#555;
+    /* color:white; */
+}
+
+li{
+    list-style:none;
+}
+
