@@ -371,7 +371,8 @@
   /* background-color:#ccc; */
   /* background-color:red; */
   padding: 50px 30px 50px 100px;
-  text-align: center;
+  /* text-align: center; */
+  align-items:center;
 }
 .service_item2 {
   display: inline-block;
@@ -379,6 +380,7 @@
   /* margin-top:px; */
   padding: 50px 30px 50px 100px;
   text-align: center;
+  align-items: center;
 }
 
 .service_item img {
